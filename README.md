@@ -1,7 +1,6 @@
 
   # Portfolio website design
-
-  This is a code bundle for Portfolio website design. The original project is available at https://www.figma.com/design/CSQhHUuPFqUVHlBFrTxDXI/Portfolio-website-design.
+I'm a BSc Data Science Student , with full stack and AI,ML knowledge 
 
   ## Running the code
 
